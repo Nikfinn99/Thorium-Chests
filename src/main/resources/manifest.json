@@ -1,7 +1,7 @@
 {
     "Group": "BlameJared",
     "Name": "ThoriumChests",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Description": "Bigger chests!",
     "Authors": [
         {
@@ -10,7 +10,7 @@
         }
     ],
     "Website": "https://legacy.curseforge.com/hytale/mods/thorium-chests",
-    "ServerVersion": "*",
+    "ServerVersion": "2026.02.18-f3b8fff95",
     "Dependencies": {
         
     },
