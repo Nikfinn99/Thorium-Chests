@@ -8,7 +8,7 @@
       "shape": {
         "type": "none",
         "offset": {"x": 0, "y": 0, "z": 0},
-        "stretch": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": true
         },
@@ -286,7 +286,7 @@
               "shape": {
                 "type": "box",
                 "offset": {"x": 0, "y": 4.5, "z": 12.5},
-                "stretch": {"x": 1.05171, "y": -1, "z": 1.13193},
+                "stretch": {"x": 1, "y": -1, "z": 1.13193},
                 "settings": {
                   "isPiece": false,
                   "size": {"x": 32, "y": 8, "z": 24}
