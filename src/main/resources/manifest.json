@@ -6,16 +6,16 @@
     "Authors": [
         {
             "Name": "Jaredlll08",
+            "Email": "",
             "Url": "https://blamejared.com"
         }
     ],
     "Website": "https://legacy.curseforge.com/hytale/mods/thorium-chests",
-    "ServerVersion": "2026.02.18-f3b8fff95",
-    "Dependencies": {
-        
-    },
-    "OptionalDependencies": {
-        
-    },
-    "DisabledByDefault": false
+    "ServerVersion": "2026.03.12-b1f856309",
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "LoadBefore": {},
+    "DisabledByDefault": false,
+    "IncludesAssetPack": false,
+    "SubPlugins": []
 }
