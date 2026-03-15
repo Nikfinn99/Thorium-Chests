@@ -73,6 +73,13 @@
         }
       }
     },
+    "BlockEntity": {
+      "Components": {
+        "ItemContainerBlock": {
+          "Capacity": 54
+        }
+      }
+    },
     "Supporting": {
       "Up": [
         {
@@ -88,11 +95,13 @@
       ]
     },
     "VariantRotation": "NESW",
+    "InteractionHint": "server.interactionHints.openDoor",
     "Interactions": {
-      "Primary": "Break_Container",
       "Use": "Open_Container"
     }
   },
+  "Model": "Blocks/BlameJared_Thorium_Chests/BlameJared_ThoriumChests_Thorium_Chest.blockymodel",
+  "Texture": "Blocks/BlameJared_Thorium_Chests/BlameJared_ThoriumChests_Adamantite_Chest_Texture.png",
   "ResourceTypes": [
     {
       "Id": "Fuel"
