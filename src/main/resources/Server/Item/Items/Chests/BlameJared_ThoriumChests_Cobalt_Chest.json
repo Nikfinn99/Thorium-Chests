@@ -55,6 +55,7 @@
         "GatherType": "Woods"
       }
     },
+    "HitboxType": "Chest_Thorium",
     "Material": "Solid",
     "Opacity": "Transparent",
     "ParticleColor": "#63412c",
